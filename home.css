@@ -275,7 +275,7 @@ nav ul li a:hover::after{
 .btn{
     margin: 10px 0px;
     width: fit-content;
-    border: 1px solid rgb(255, 0, 0);
+    border: 1px solid rgb(222, 7, 7);
     padding: 10px 30px;
     border-radius: 10px;
     text-decoration: none;
